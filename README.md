@@ -1,5 +1,7 @@
 # Palabrería
 
+> Abundancia de palabras sin sustancia ni utilidad.
+
 Generates a list of random words in the provided dictionaries.
 
 ## Rationale
